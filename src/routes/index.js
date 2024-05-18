@@ -1,4 +1,7 @@
+// Layout
 import Home from '~/pages/Home';
+
+// Page
 import Following from '~/pages/Following';
 import Profile from '~/pages/Profile';
 import Upload from '~/pages/Upload';
